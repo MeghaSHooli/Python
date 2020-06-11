@@ -48,9 +48,23 @@ print("celsius:", (temperature - 32) * 5 / 9)
 print("fahrenheit:", float(temperature))
 
 
+my_name = 'Megha H'
+print(f"Let's talk about {my_name}.")
+
+y = f"Those who know {my_name}"
+print(y)
+
+print(my_name + ' ' + y )
+print(my_name)
 
 
 
+#Formatter for .Format
+formatter = "{}..........{}"
+print("one","two")
+print(formatter.format("one","two"))
 
-
+Value = 100
+print("This value is", Value)
+print("This value is" + '   '+ str(Value))
 
