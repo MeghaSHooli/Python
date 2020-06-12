@@ -68,3 +68,6 @@ Value = 100
 print("This value is", Value)
 print("This value is" + '   '+ str(Value))
 
+cars = 100
+print("there are", cars)
+
