@@ -77,3 +77,5 @@ name = 'Scott'
 equal = name != "Joe"
 print(equal)
 
+
+

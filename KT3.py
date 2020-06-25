@@ -21,7 +21,7 @@ def mood(hungry, thirsty):
         print("Save your food and drinks for later!")
     #EndIf
 
-HI = mood(True , True)
+mood(True , True)
 
 
 
@@ -44,7 +44,7 @@ def greet(friend, money):
     return money
 
 
-money = 15
+money = 25
 
 money = greet(True, money)
 print("Money:", money)
