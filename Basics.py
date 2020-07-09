@@ -31,6 +31,8 @@ print(569 * 55)
 print(16 / 8) # Gives the floating output
 print(16 // 8) # Gives the int output
 
+
+
 print(8 ** 2) #Exponentials 8^2
 
 print(3+5+7+9) # left to right open
@@ -70,4 +72,6 @@ print("This value is" + '   '+ str(Value))
 
 cars = 100
 print("there are", cars)
+
+print(type(cars))
 

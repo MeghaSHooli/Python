@@ -57,3 +57,15 @@ print()
 money = greet(True, money)
 print("Money:", money)
 print()
+
+
+for i in range(10):
+  print("Hello, World!")
+
+
+
+def greeting(name,dept):
+    print("welcome, " + name)
+    print("She is part of : " + dept)
+
+greeting("megha" , "Testing")
