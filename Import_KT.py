@@ -71,7 +71,7 @@ def name_to_number(name):
         return 4
 
 
-print(name_to_number("rock"))  # output - 0
+print(name_to_number("myname"))  # output - 0
 print(name_to_number("Spock"))  # output - 1
 print(name_to_number("paper"))  # output - 2
 print(name_to_number("lizard"))  # output - 3
