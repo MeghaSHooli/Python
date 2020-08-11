@@ -51,7 +51,7 @@ print("fahrenheit:", float(temperature))
 
 
 my_name = 'Megha H'
-print(f"Let's talk about {my_name}.")
+print(f"Let's talk about {my_name}.") # f is formating
 
 y = f"Those who know {my_name}"
 print(y)

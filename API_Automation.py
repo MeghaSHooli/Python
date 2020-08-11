@@ -55,3 +55,4 @@ for i in data_list:
   if i['id'] == 12:
     #From the response, verify id 12 is assigned to Rachel.
     assert i['first_name'] == 'Priya', "id 12 is not assigned to Rachel"
+
